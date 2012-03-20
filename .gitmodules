@@ -1,0 +1,3 @@
+[submodule "Fractions"]
+	path = Fractions
+	url = git://github.com/iOSCourseMaterial/Fractions.git
